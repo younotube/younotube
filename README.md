@@ -1,5 +1,6 @@
-## Hi there 👋
+### naum funciona meu iscipiti de esp
 
-<!--
-**younotube/younotube** blabla
-`README.md` (this file) appears on your GitHub profile.<img width="500" height="500" alt="Untitled_Project__5_-removebg-preview" src="https://github.com/user-attachments/assets/3e8ea4fd-610a-429c-8960-11e7cec44ae1" />
+<img width="500" height="500" alt="Untitled_Project__5_-removebg-preview" src="https://github.com/user-attachments/assets/f8e991d1-4401-430e-bcd7-3ceb831cbfeb" />
+
+
+![fb45d8ce773abefb15bf141094788dc4](https://github.com/user-attachments/assets/7ccb53a7-1391-460c-810f-dab627326acb)
